@@ -176,5 +176,5 @@ Top-ranked AI & Systems specialist. Proven by:
 ---
 
 <div align="center">
-  <p>© 2025 Mohamed Ibrahim Sallam. All Rights Reserved.</p>
+  <p>© 2025 Mohammed Emad. All Rights Reserved.</p>
 </div>
